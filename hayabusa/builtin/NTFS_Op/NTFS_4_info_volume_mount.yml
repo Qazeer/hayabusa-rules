@@ -3,7 +3,7 @@ date: 2024/10/12
 modified: 2024/10/12
 
 title: 'NTFS volume mounted'
-details: 'VolumeId: %VolumeId% ¦ VolumeLabel: %VolumeLabel% ¦ VendorId: %VendorId% ¦ ProductId: %ProductId% ¦ DeviceSerialNumber: %DeviceSerialNumber%'
+details: 'VolumeId: %VolumeId% ¦ VolumeLabel: %VolumeLabel% ¦ DeviceName: %DeviceName% | VendorId: %VendorId% ¦ ProductId: %ProductId% ¦ DeviceSerialNumber: %DeviceSerialNumber%'
 description: 'A NTFS volume has been successfully mounted. Introduced in Windows 10 / Windows Server 2016 (Build 14393), with more fields logged (including information on the underlying device) starting with Windows 11 / Windows Server 2022 (Build 22000).'
 
 id: af127790-5563-473e-8d3a-43b3509572b1
